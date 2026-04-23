@@ -1,0 +1,331 @@
+Lex:
+
+"24:45 AM/PM. Ai crede ca e simplu sa identifici ora exacta, dar asta nu e o ora pamanteana. Pentru noi, ziua are 25 de ore. La fiecare miez de noapte, cand ceasurile omenirii arata 00:00/24:00, noi oprim timpul pentru o ora. Este darul nostru, ca zei, pentru noi. Oprim timpul, planeta se opreste, iar tot ce mai ramane e gravitatia. 
+
+Cu timpul oprit, ne suim pe motor (conduci tu, eu nu am carnet) si batem orasul cap-coada. Si nu e vant si nici contact cu aerul, caci vezi tu, timpul e oprit. E un semi-vid in care tot ce ramane valabil e conceptul de "in jos". A dracului gravitatie, p-asta nu o putem controla. Si batem orasul cap-coada, si ocazional oprim si construim sau modificam. Un om aici, o cladire dincolo, astfel incat atunci cand acea ora autoimpusa se sfarseste, orasul va fi putin mai altfel, mai pe gustul nostru. Gustul nostrum. Addendum adaugat.
+
+Am merge si prin alte locuri, dar chiar si zeii (ca noi) isi au blestemele lor. Iar noi putem crea orice, dar nu ne putem parasi orasul. Oare si zeii altor orase or pati la fel?
+
+24:59 AM/PM. Ora noastra a aproape gata, iar pentru urmatoarele 24 vom fi din nou muritori. Si tot asa. In trecut, aici, vreodata sau mai incolo."
+
+
+
+
+Lex:
+
+"Refresh Store
+ 
+CRM mode:
+
+The IAP store is refreshed by Gaia .
+In the callback function of gaia::Gaia_Hestia::DispatchCurrentConfig, you can get the items and display them.
+
+Update: In Gaia revision 10316, IAP 1047
+New flow: after InitializeCRM() from Gaia_Hestia, IAP library will have a CRM config ready(default or latest cached on device).
+You must display the items in the InitializeCRM callback function, not only in DispatchCurrentConfig/DispatchDefaultConfig callback.
+
+This covers the NonFed case where Pandora is shut down."
+
+La naiba, uite cum nici la munca nu scap de Gaia. Gaia in sus, Gaia in jos, suntem semiblestemati sa fim urmariti de umbra ei tot timpul. Versiunea ta de Gaia ce mai face?"
+
+
+
+Lex:
+
+"La 16 ani ni s-a dat accesul la puterile de zei. Pana atunci am fost doar observatori, iar cei cu rolul de instructori ne luau cu ei in ora in care timpul se opreste si ne invateau trucurile meseriei. Da, fiindca tot ca o meserie am ajuns sa o consideram. Tot atunci, la 16 ani, se selectau perechile de zei, in general din cadrul celor ce se cunosteau din copilarie cum am fost si noi. Rare erau perechile noi formate, instructorii punand accent foarte mult pe dictonul "ca sa poti construi cu cineva, iti trebuie incredere. iar increderea se castiga in timp nu se ia de buna".
+
+-
+
+Candva, cand aveam noi vreo 20 de ani, am descoperit ca perioada de o ora in care opream timpul era oarecum autoimpusa, o regula nescrisa a speciei noastre. In realitate, timpul poate fi oprit pentru orice perioada de timp (HA) ce o doreste modelatorul. Si cum sunt eu mai nebun de felul meu, am oprit timpul de unul singur, fara sa-ti zic, pentru cativa ani. Corpul meu a imbatranit, restul lumii a ramas la fel, iar acum intre noi e o diferenta de varsta. Te-ai suparat pe mine, dar nu la fel de mult precum s-a suparat Gaia. Iar Gaia s-a suparat atat de mult incat la sfarsitul ispravei mi-a retras toata culoarea din priviri si inca de atunci incoace, eu vad lumea doar in alb-negru si imi este necesara privirea ta sa-mi explice culorile ce mi le mai amintesc acum doar prin vise. Blestemul unui zeu frivol.
+
+-
+
+Ajung acasa ca de obicei, minim la 7PM. Iar fara Athos.
+- Ce ai patit? V-ati pierdut iarasi? Iar a fost chemat in locuri fara tine?
+- Ah nu, doar a fugit dupa o femela frumoasa ce alerga inaintea noastra undeva prin pasajul de la Piata Presei. Cred ca tocmai a intrat in perioada aceea a anului, deci cred ca vreo cateva saptamani nu mai auzim de el.
+- Am inteles. Puteai totusi sa dai un semn, veneam si te luam cu motorul, sa nu vii pe jos.
+- Nu-i nevoie. Aveam nevoie de ceva timp sa ma gandesc. Si altfel, cum m-as fi putut opri la Mega sa-ti cumpar prajituri? Ca tu singura nu-ti iei niciodata."
+
+
+
+Lex:
+
+"{
+"clientid": "1897:55612:2.6.0",
+"version": "2.6.0n",
+"pid": 1897,
+"credential": "anonymous:aXBob25lX7uXzFs79pHeZu/aDzKpHqg=",
+"ipv4": "62.77.224.37",
+"device_id": "3040027271",
+"device": {
+"firmware": "8.4.0",
+"id": "3040027271",
+"model": "unknown"
+},
+"mssg": "Client desynced: Cannot place building for credential anonymous:aXBob25lX7uXzFs79pHeZu/aDzKpHqg= / FED_params",
+"level": "warning",
+"action": {
+"category": "desync / FED-request",
+"operation": "place_building / OP_Code",
+"response_code": 200,
+"value": "DML_Fire_Habitat / response",
+"platform":"unknown",
+"retail": true
+
+Eram doar la cativa metri de intrarea in ce parea a fi o mina (sau orice ar fi ce porneste de la un nimic intr-un deal dintr-o zona din marginea Federatiei). Implantul subdermal imi pornise iarasi de unul singur si acum ne chioram amandoi la holograma cu informatie din fata noastra.
+
+- Model, unknown? Client desynced? FED_params? Ce dracu' e asta?
+- Nu stiu dar, luandu-ma dupa "DML_Fire_Habitat / response", cred ca o sa intram cumva in zona crepusculara. Ma intorc si in spatele nostru deja era bezna, singura sursa de lumina ce mai exista venind chiar din interiorul dealului.
+- Intram?
+- Sigur! As zice ladies first, dar hai sa evitam cazul in care sunt capcane ascunse, asa ca o sa-mi asum eu pasii de test. Tu doar urmeaza cat de aproape poti.
+
+*
+
+Mergeam deja de vreo jumatate de ora, in liniste completa. Inca nu dadusem de nici o capcana si cumva incepuse sa miroasa a prajituri. Peste nici cincizeci de metri sursa luminii se dezvaluie si in fata noastra a aparut, ca un facut, un Mega Image, dar cu un panou de nume pe care scria, mare si multicolor (cred, eu vedeam doar diverse nuante de gri) "Welcome to Pandora!"
+
+Ne-am oprim amandoi in fata usii. Inauntru, liniste completa si nici o persoana la orizont. Te-ai intors spre mine cu privirea aia pe care o mai ai din cand in cand la vreo gluma mau aiuristica de-a mea ce nu o intelege nimeni.
+
+- Cineva si-a batut joc de noi, nu? Mai bine ramaneam pe plaja aia pustie si ne vedeam de concediul nostru.
+
+Incercand sa dreg un pic situatia, mi-am pus totusi pe fata cel mai tamp zambet de care sunt capabil si am inganat intr-o voce de copil.
+
+- Da, dar vezi tu, simti tu, prajituuuuuri! Eu zic sa intram neaparat sa vedem ce e bun!
+
+Si intrand in magazin, o melodie incepe usor usor sa cante din difuzoarele amplasate peste tot pe pereti."
+
+
+
+
+
+Lex:
+
+"Nu știam dacă, pe undeva printre frunzăritul paginilor din cartea pe care o citeai (era ceva cu primul american ce a câștigat o competiție de F1) și zgomotul valurilor ce se spărgeau în fața picioarelor noastre, dacă pe undeva printre liniștea nu atât de liniștită a pustietății ce ne înconjura și printre dialogurile semi-mute ce le purtam din priviri, nu știam exact cât timp am petrecut pe acele două scaune.
+
+Tot ce știam e că e încă zi și trecuseră multe ore de când stăteam în acel loc și cumva părea că trecuseră câteva secole deja.
+
+Timp, ce concept parșiv. Dintr-o dată, un weekend complet în straie de muritor părea să curgă mult mai repede decât ora noastră obișnuită de remodelare de la miezul nopții.
+Ce-i drept, pentru acel scurt timp, uitasem într-adevăr de tot scopul plecării noastre din oraș, și anume să găsim refugiul Pandorei.
+
+Se așeza apusul. 
+
+- Și-acum, în ce direcție continuăm?
+
+Dintr-o obișnuință am dat să deschid interfața implantului subdermal, dar ghici ce, ne lăsasem puterile in Oraș și tot ce a rezultat din această intenție e să-mi agit mâna într-un mod amuzant, de parcă mă mușcase ceva de care trebuia să scap.
+
+- Ah, la naiba. Păi....ia să vedem...ori ne întoarcem spre intersecție și luăm calea cealaltă, ori îi dăm înainte spre marginea și mai sudica a Non-Fed-ului. Oricum harta s-a terminat aici.
+ -Dă-i înainte, mi-ai răspuns aproape instant. Simt prezența din ce în ce mai apropiată a Pandorei. Spune-i intuiție feminină, dar nu am cum să-ți explic altfel.
+
+Ne-am ridicat amândoi cu grația unor crocodili ce se rostogolesc prin noroi, am aruncat scaunele înapoi în portbagaj si am pornit motorul. Oricum eram mai eficient la condus pe timp de noapte, așa că m-am gândit că o dată ce terminăm aventura, putem pune tabăra de peste noapte tot în același loc, pe drumul de întoarcere, când nu ne va mai grăbi nimeni.
+
+- Sper ca ai făcut revizia la mașina cât de curând. Nu de alta, dar sigur o să mai trebuiască încă un schimb de ulei după ce ne întoarcem."
+
+
+
+Hess:
+
+”Am ajuns pe o plajă. Nu știm dacă eram în Federație sau nu? Dacă e ținutul zeilor și muritorilor, doar al zeilor sau doar al muritorilor. Nu știam nimic, doar că am ajuns Undeva. Și e bine să părăsești orașul după atâta amar de vreme, să fii străin și să te pârjolească soarele cu atâta intensitate fără să simți efectiv că fierbi. Mașina se încinsese mai ceva ca motorul meu la viteza maximă...uitasem că astea-s făcute de muritori pentru muritori, iar Lex nu mai condusese de ceva timp așa că îi dăduse cu viteza pe unde-i permitea drumul. Athos obișnuia să comenteze dacă îl forța Lex, uneori chiar și 3 zile în șir auzeai același reproș al gigantului.
+
+Parte din mine deja căuta motiv să renunțăm la căutarea Pandorei. Aș fi preferat să stăm Acolo...sau Dincolo... Degeaba. Găsisem motiv să plecăm, dar oare nu era mai bine să ne bucurăm de liniște, soare și briză? 
+
+Nu am apucat să mă gândesc bine la dorința de a face nimic, când îl văd pe Lex că se îndreaptă spre portbagaj de unde scoate două scaune pliabile.
+
+- Ai făcut și bagaje de vacanță?
+- Eu nu plec niciodată nepregătit. Și oricum știam că vei vrea să stăm pe malul mării. 
+- Poseidon ar fi mândru de noi.
+- Și Gaia. 
+- Eu zic să ai grijă cu pomeneala că asta e ca lupul. Apare imediat.
+
+Pentru un moment, Hess și Lex au fost muritori cu adevărat. Așa că au setat camera pe timer și au așezat-o pe mașină pentru o poză în care erau pentru prima dată liberi.”
+
+
+
+Hess:
+
+"Cand un muritor se gandeste la weekend, nu se gandeste ca devine oficial al nimanui . Asta spre deosebire de zei, care devin din toate punctele de vedere singuri pe lume cand isi permit luxul unui weekend liber.
+
+Lex inca doarme si tin sa cred ca asta e de fapt fericirea lui in weekendul-concediu, asa ca am facut tot posibilul sa fiu silentioasa cand m-am dat jos din pat. Eu oricum ma trezesc dimineata fie ca vreau sau nu. Pare-se ca CRM-ul se initializase si pornise un update fix pe la 8 dimineata, moment in care tiuitul din creier mi-a sters orice urma de somn mai aveam. Am pus ibricul pe foc sa fac cafeaua si am numarat doua, nestiind daca Lex va vrea ori nu, dar in orice caz am preferat sa fie facuta.
+
+In lipsa altor idei de a ne petrece timpul liber, eu si Lex hotarasem cu cateva zile inainte sa mergem sa o cautam pe Pandora. Ultimul indiciu legat de locatia Pandorei sosise prin intermediul interfatei implantului dermal al lui Lex. Astfel ca trebuia sa incepem din zona NonFederala: "This covers the NonFed case where Pandora is shut down.". NonFederatia era intr-un fel la capat de lume si deci urma sa mergem, dupa o suta de ani, in afara orasului pentru prima data. Fara confortul de a opri timpul, fara puteri, fara gadgeturi si fara Athos - care era la ferma lui preferata unde il aranjau de copite noi, ii faceau parul si ii mai implementau ceva sisteme noi si distractive (de aparare, de atac, de intelegere, etc.). Cat mi-am baut cafeaua in linistea diminetii, am cautat in cartile de istorie si pe hartile din cele mai vechi timpuri indicii legate de locurile pe unde ar putea fi ascunsa Pandora. Singurele mentiunii despre acest lucru amplasau inchisoarea ei la granitele Federatiei cu Republica Veche a Puterii, undeva pe tarmul marii Negre a lui Poseidon.
+
+12PM - ora pranzului muritorilor. Ar trebui sa serbam weekendul muritor respectand cu exactitate si ritualurile lor. Il aud pe Lex coborand din pat, asa ca ma ridic sa iau o ceasca din dulap. 
+
+- Buna dimineata, soare!
+- Haha, buna asta. Am dormit cam mult, dar a fost bine. Uneori nici nu realizez cat de obosit sunt. Ai cafeaua facuta?
+- Mhm. Am facut doua. Te astepta.
+- Iti multumesc! Ai gasit un punct de plecare?
+- Cred ca da. Cat iti bei cafeaua, arunca un ochi si tu peste notite si vezi poate iti aduci aminte ceva in plus din scoala.
+- Nu garantez ca mi-a placut destul istoria la scoala cat sa imi amintesc ceva, dar ma uit.
+- Luam masina deci si mergem spre mare. Cumva sunt entuziasmata, nu stiu de ce.
+- Pentru ca facem si noi altceva dupa prea multi ani!
+- Argumentul e legitim. Auzi, dar noi n-ar trebui sa-i ducem ceva Pandorei? Stiu ca nu e intocmai conform eticii, dar ma tem ca altfel nu putem avea o discutie cu ea.
+- Ii ducem o bere. Nu cred ca a auzit de asa ceva si dupa ce se abtiguieste nitel, ne spune de toate.
+- Haha, bun strategie. Ma duc sa fac un dus si sa ma imbrac cat iti bei cafeaua.
+- Asa sa faci! Te urmez si eu in scurt timp.
+
+Acum incepusem sa inteleg de ce Cronus imi lasase cutia aceea ca sa o trec prin vama. Moneda mea de schimb era obiectul acela ciudat, cu iz de oglinda prost facuta, stramba si rotunda. Nestiind ce este de fapt, mi-era teama de o eventuala greseala pe care o voi face daruindu-i acel obiect Pandorei. Daca e doar un motiv ca tata sa porneasca o revolta in randul zeilor? N-aveam de gand sa-i spun lui Lex despre vizita tatei si nici despre obiect. Asta pentru ca in cazul in care voi fi nevoita sa folosesc obiectul, Lex sa nu poata fi acuzat de nimic. Datele CRM-ului meu vor corespunde povestii mele si ale lui cu varianta lui de poveste. Nu-i ascunsesem lui Lex nimic pana acum, in tot timpul asta lung de parteneriat, si nici nu as fi inceput daca nu as fi considerat ca pedeapsa de a nu vedea culorile e mult prea mare pentru greseala comisa in tinerete.
+
+- Bun, bine, m-am imbracat. Cine conduce?
+- Cine ajunge primul la masina!"
+
+
+
+Lex:
+
+"Avem voie doar in weekend sa ne luam concediu. N-a fost niciodata altfel, de cand s-a infiintat echipa de remodelari temporale. Dupa zeci de cereri si greve, Zeus hotarase ca e momentul sa schimbe procedura si sa ne permita concedii mai lungi, tot in weekend, dar cu timpul oprit. Nu stiu cine a reusit sa traiasca sapte zile in doua, dar eu si Lex eram primii pe lista.
+
+Dimineata primisem mesaj de la Gaia, prin interfata lui Lex, ca urmeaza sa primesc un update in CRM. Desigur, update-ul era busit, iar CRM-ul meu avusese de suferit. Astfel ca, pe irisul meu la pornirea de CRM, o multitudine de luminite licareau rapid. Daca sufeream de epilepsie ca muritor si pornea CRM-ul din greseala? E cam greu sa explici ridicarea mea cu ambulanta si mersul intr-un spital de stat lui Zeus, in conditiile in care ma pot transforma intr-o clipita in ceva nemuritor. Cel mai sigur era sa nu ajungem vreodata in situatia de a fi cazati in spital vreodata pentru echipa de remodelare, dar se mai intamplau si accidente.
+
+In istoria cuplului format de mine si Lex, avusesem parte o singura data de accidentare. Eram pe motor si mergeam repede, cu timpul oprit, pe Splai. Lex cu Athos mergeau in paralel. Gravitatia functiona mereu in sesiunile noastre de remodelare (Chronos inca negocia cu Cronus pe tema asta) si pare-se ca si hazardul era la fel de functional. Dintr-un avion ce era in trecere pe deasupra noastra fix la oprirea timpului, a cazut o bucata de fuselaj, aceasta nimerind fix in motorul meu. Nu s-a gandit nimeni sa-i puna scut (ca cine naiba te-ar lovi cand e timpul oprit!?), iar acest lucru era cat pe aici sa ma coste o mana. Bucata de fuselaj aproape ca mi-a taiat mana stanga, separand ghidonul de restul vehiculului ca un cutit ce trece prin unt. Athos i-a simtit panica lui Lex si in momentul impactului m-au tras de pe sa dintr-o miscare. Nemuritor inseamna ca nu mori, dar mana mea a fost atinsa de tabla si am sangerat destul de tare timp de cateva minute. Ne-am oprit, am respirat, ne-am uitat unde a aterizat motorul si ne-am aprins o tigara care nu se consuma, dar care avea doar rolul de calmant. Athos lingea rana de pe mana pentru a grabi vindecarea si a ma linisti.
+
+- Era sa mor sau mi s-a parut mie?
+- Frumusetea unui nemuritor e ca nu moare. Deci nu, nu era sa mori, dar cat p-aci sa faci baie in Dambovita.
+- Si daca ramaneam fara mana? Nu muream, dar ramaneam fara mana...
+- Daca te plangi de asta, inseamna ca nu ai vazut ultimele modele de implanturi bionice. Pe langa foc, ai fi stapanit si metalul. Mai stii filmu' ala cu Magneto de l-am vazut acum niste ani? Cam asa ceva...
+- Nu imi vine sa cred ca vezi partea buna a faptului ca era sa imi pierd mana! E mana mea!
+
+Lex a facut cativa pasi inspre bucatile ramase pe sosea si se apleca inspre ramasitele motorului meu de unde a ridicat brelocul meu pufos de la chei:
+
+- Macar domnul Cookie a supravietuit, Hess.
+- Lex...
+- Chemam echipa de curatenie sau curatam noi? Aproape te-ai vindecat. O sa iti ramana doar semnul de buna purtare.
+- Curatam noi si dam raport dupa aia sa vina ei sa adune ce o mai fi. Prefer sa imi scot motorul singura. Athos, crezi, baiete, ca poti sa tragi cea mai ramas din apa?
+
+Athos zambi si ridica de urechi. 
+
+- Cred ca vrea.
+- Crezi!? Abia astepta sa il rogi sa faca ceva in plus.
+
+M-am ridicat de pe sosea si l-am mangaiat pe Athos pe ceafa. Lex parea ca se calmase si el, desi n-ar fi afisat vreun semn al panicii ce se starnise in el. 
+
+- Hai sa curatam si sa mergem acasa. Rezolvam in alta zi problema din Regie."
+
+
+
+Lex:
+
+"In general, zilele de vineri veneau cu mai putine lucruri pre-planificate de facut. Doar vreo 3-4 taskuri ce se rezolvau in jumatate de ora, apoi remodelare libera pentru restul perioadei.
+
+In seara asta primiseram doar o singura cerinta oficiala: aveam de mutat un ghiveci cu o planta mare de la parterul scarii unui bloc de pe undeva prin bucurestii noi, si sa o asezam la oricare din etajele pe unde gaseam un spatiu liber.
+
+- Un ghiveci? Serios? m-ai intrebat aprinzandu-te. Asta am ajuns a fi, carausi pentru vreun oarecare locatar plictisit??
+- Stai putin, ca scrie si motivatia. Cu litere mici, de-o schioapa, ca disclaimerul de pe ambalajele de fast food. Uite ce zice: "La parter locuieste o familie cu un copil de 5 ani. Acel copil, prin calea ce ii va fi dezvoltata, va ajunge unul dintre fizicienii de top ai civilizatiei si in urma descoperirilor si cercetarilor lui, timpul pana omenirea va ajunge sa colonizeze efectiv o planeta straina de Pamant va fi scurtat cu sute de ani si, in acest fel, se va preveni o posibila extinctie a speciei umane. Acel ghiveci cu cu flori va trebui mutat de la parterul blocului, altfel, maine dimineata cand parintii vor vrea sa duca copilul spre gradinitia, el va fugi repede pe usa apartamentului, se va impiedica de un siret impropriu legat si va cadea, lovindu-se cu capul de ceramica dura (pentru el) a ghiveciului. Parintii se vor speria de la hemoragia declansata si vor chema salvarea, plecand cu copilul spre spital, dar acea masina de salvare va fi lovita intr-o intersectie aglomerata de catre o autoutilitara ce nu a respectat semnalele sonore si acustice de prioritate. Ca rezultat, copilul ca cadea de pe masa pe care era asezat in ambulanta si va primi inca o lovitura la nivelului lobului frontal ce ii va fi eventual fatala."
+
+- Aha, deci, mai pe scurt, trebuie sa mutam planta aia blestemata daca nu vrem sa ramanem fara job in vreo cincizeci-o suta de ani, apoi avem remodelare libera pe cladiri.
+- Ma duc eu sa o mut, ti-am zis, incercand sa calmez putin spiritele. In realitate, nici nu prea stiam de ce esti suparata, dar asta era prea putin important in acel moment. Ma duc eu, cu Athos, si te anunt cand suntem gata si o sa ne vedem pe undeva prin centru. Ca apoi oricum avem treaba. In seara asta trebuie sa pregatim bagajul ca dimineata sa plecam in cautarea Pandorei."
+
+****
+
+Nu am auzit nici un fel de alarma azi. M-am trezit singur la 7:32 trecute fix AM, simtindu-ma ca si cum un elefant ar fi dormit asezat peste mine toata noaptea. Nu stiu daca e de la raceala sau pur si simplu consecinta a "adulthood-ului" pe care il blamez constant pentru orice. Nici inspiratia nu a fost de mare impresie artistica, e tot ce am putut pt moment."
+
+
+
+Hess:
+
+"De cand ma stiu cu Lex, entuziasmul cu care abordeaza niste lucruri, ma face sa intru in jocul lui. Ai crede ca dupa atatia ani si dupa atatea complicitati mi-am invatat lectia si sa nu il mai ascult cand are tot felul de curiozitati legate de ce au vrut zeii sa zica. Implanturile subdermale fusesera un chin pana ne-am obisnuit intr-un fel sau altul (miscarea ce-l declansa era o chestie pe care o faceam des cand imi amortea mana pe ghidonul motorului, astfel ca imi cerea credentialele des sau pornea instructajul de activare a sistemului de operare prin simpla gesticulare spre "how to"). Nici la CRM-uri nu fusese asa de cumplit, iar astea ni le implantasera in ceafa, in directa conexiune cu cortexul prefrontal pentru a valida cu serverul zeiesc toate deciziile facute pe teren. Urmau sa ne mai puna clopotei la glezne sa stie pe unde umblam, ca in rest renuntasem la a mai fi independenti in vreun fel de dragul misiunii finale - acel "o lume mai buna" care nu avea o finalitate oricum.
+
+Pandora era in toate cartile noastre de istorie sefa biroului de schimburi. Ai o putere pe care nu o poti stapani, iti da ea alta la schimb. Problema era ca la comisoane, doamna de la ghiseu cerea si ceva in plus - acces la CRM pe encriptie de 2 kilobiti (care insemna ca nu te poate influenta in decizii, dar iti poate vedea legatura neuronala pe care ai luat decizia) sau sa testezi ceva in alpha fara raport trimis catre Gaia sau echipa de validare. Nu ca ar fi fost scris undeva in codul de etica al institutiei sa faci sau nu propriile combinatii, dar Pandora nu avea nimic impotriva si deci devenise o practica destul de comuna. In fapt, Pandora fusese amanta unchiului Hesiod si o stiam de copil, astfel ca de fiecare data cand venea "tanti" primeam ceva pentru a pastra secretul. Gaia nu stie nici pana in ziua de astazi de functiile Pandorei, dar nici ca i-ar pasa. Pentru Gaia, Hesiod era prea diplomat ca sa faca o asemenea greseala. Pandora nu mai era in procedurile echipei de ceva vreme, astfel ca nimeni nu stia unde se afla. De ce aparea in mesajele Federatiei?
+
+Pic, Pic, Pic - CRM-ul porneste in timp ce dormeam si incepe sa faca un update. In sfarsit a facut Gaia cererea si imi porneste si functia de live pentru viitoarele traininguri ale recrutilor. Curand o sa putem merge mai mult in concedii, nu doar pe weekend. Odata ce trecem de perioada de testare, ii vor lasa pe cei tineri pe teren, iar noi ii vom putea supraveghea si ajuta in luarea de decizii fara sa fie nevoie de prezenta noastra fizica. Deschid ochii si mi se afiseaza urmatorul mesaj: <<<CRM not valid. Login credentials suspended. Contact Pandora for removal and replacement.>>>. Am sperat ca Zeus nu stie de discutia mea cu Lex despre cautarea Pandorei, dar deja era a doua mentiune in programele Companiei si nu se cadea a fi o simpla coincidenta.
+
+Ma uit la tine si vad ca ai adormit la loc inaintea mea. Stiind ca numeri orele in somn ca sa te trezesti odihnit, am decis sa fac acelasi lucru. Nu vreau sa te trezesc, asa ca ma intind la loc langa tine si astept sa imi vina somnul inapoi."
+
+
+
+Hess:
+
+"Pe langa faptul ca mi-au dat cu default, la o adica - eu, Hestia, incep ziua de la 0 fara sa fi adunat vreo inteligenta de-a lungul anilor in care le-am facut mai usoara existenta - astia mici mi-au busit si interfata de CRM. No uploads, no downloads. Imi incep ziua orbeste, controlul misiunii fiind mereu un raport de la Gaia in care imi explica toate in cele in care am gresit (amanuntit, ca nu stie altfel). Noi, astia mai batrani, rupem terenul cu tehnologie noua inca nefinisata, iar astia tineri stau cu fundurile in scaun si merg ocazional la antrenament.
+
+Cand s-a intors lumea cu capu' in jos?
+
+Ma suna Zeus pe noul telefon. Raspund si ma curentez:
+
+- Sefu', nimeni nu e multumit pe teren de uneltele primite. 
+- Pai d-aia vi le-am dat. Sa fiti nemultumiti! Si sa trimiteti nemultumirile inapoi in centru. Nu mai trimitem copiii pe teren din motive obiective.
+- N-am zis sa-i trimiteti pe teren. Ar merge insa o supraveghere mai atenta de la seniori. 
+- Seniorii raman pe teren. Dar nu d-asta te-am sunat. Am curatat intersectia, dar data viitoare va las in fundu' gol daca va mai prind ca va organizati prost.
+- Nu se poate lucra cu un software in beta testing. Lex nu vede culori si eu am CRM-ul in default de la ultimul update.
+- Ba, da' numai scuze aveti. Am zis! Nu mai curat dupa voi. Altfel, da-i raport Gaiei pe CRM cu tot ce e in neregula si ti-l pune ea la punct.
+- Gaia e la resurse supraumane. Habar n-are ce face CRM-ul pe teren.
+- Nici tu nu stii. Diseara aveti treaba, sa nu va prind ca iar faceti dezastru.
+- Diseara plecam...
+- Nu plecati pana nu rezolvati.
+
+N-apuc nici sa ma enervez, ca Zeus pleaca si lasa un ultim nor in casa. Abia facusem curat si mi-a lasat o balta pe jos... 
+
+CRM initialize: Text Lex via quantum-network>>> M-au vizitat Gaia si Zeus. Avem treaba inainte sa plecam. In seara asta lucram analog si facem raport pe digital. La Razoare a curatat Zeus, but he was not happy. H.>>> End script and upload to binary link. /// CRM loading /// CRM reset - message was succesfully sent."
+
+Iau telefonul de muritor in mana si ii mai trimit un mesaj lui Lex. <<Treci pe la Mega si ia prajituri cand vii. Eu-s deja acasa, chiulesc de la munca."
+
+
+Hess:
+
+"E vineri. In weekend urmeaza sa plecam din oras, cu bilet de voie si cu predarea superputerilor la vama. Hesiod ne-a aprobat cererea intr-o clipita, dar Gaia mereu are ceva de comentat. Nu conteaza cat de mult am muncit, cat am reparat si cat de obositi suntem, ca mereu exista o nemultumire din partea ei. Oricum, cu aprobarea unchiului Hesiod, Gaia nu mai avea cum sa dea inapoi si sa ne cheme la pontaj. Nepotismul in lumea zeilor presupune si mai multa responsabilitate decat in cea a muritorilor. Astia mai au sa dea vina pe tine ca te-au facut, ca in rest tu esti vinovat pentru tot.
+
+Ora 14:30 PM. Ma gandesc iar la tigara, incerc sa ochesc pe geam un loc unde sa ma retrag fara sa ma vada cineva. Dau sa ies pe usa si imi vad colegii miscand un milimetru la 30 de secunde. Trebuia sa ma astept la asta fix inainte sa plecam si noi undeva! Apare Gaia si timpul se opreste de tot, vad doar cana de la un birou rostogolindu-se spre podea din pricina inertiei. Inchid un ochi, ca de fiecare data cand ma intalnesc cu gravitatia in oprirea timpului. E ca si cand i-as face cu ochiul, doar ca nu de drag.
+
+- Am fost nevoita sa obtin aprobare si sa vin pe timpul muritorilor ca sa te intreb de podul de la Basarab. Cat ai de gand sa ma eviti?
+- Buna, Gaia! in lumea asta asa incep conversatiile. 
+- Sunt in contratimp. Procedural, conversatia asta are sa dureze 1 secunda pe ceasul muritorilor si 10 minute in al nostru, deci ma cam grabesc. Lasa-ma cu formulele de salut, ca nu e cazul. Basarab. Pod? Suna cunoscut?
+- Am primit telegrama cu intarziere, iar Athos era chemat la Chronos. Nu risc sa plec singura sa repar un pod care inca sta bine pe partea muritorilor, doar ca sa avem noi cale libera spre Militari. Cand ne-ati lasat in perechi, a fost vorba ca nu face nimeni singur reparatii.
+- Si Athos acum unde e?
+- E cu Lex.
+- Aha. Sper doar ca nu eviti sa ii spui lui Lex ca aveti asta de facut.
+- Ca sa fii sigura de asta, ar fi trebuit sa-i spui tu. Nu sa imi trimiti telegrama si apoi sa ceri exceptie ca sa vii sa vorbesti cu mine aici si acum. Cat ai sa-l mai tii far' de culoare? Habar n-ai cat sufera pe tema asta. Pedeapsa dupa 100 de ani nu mai e pedeapsa, e doar o tortura inutila.
+- Regulile nu sunt ale mele. Si sunt acolo cu un scop. Mai are de asteptat, atata iti pot spune.
+- Voi si regulile voastre. Hai ca ti-au expirat cele 10 minute. Ma ocup de pod cand ne intoarcem. Pana atunci nu discut. Weekendul e aprobat, noi plecam in concediu.
+- Pe curand, Hess.
+- Bine, Gaia. Dar nu foarte curand, ca am vacanta doua zile.
+
+Se aude iar forfota in birou. A plecat Gaia si eu deja uitasem ce am de facut. Ma uit in jurul meu, e tot 14:30, tigari nu mai am si nici vreun chef sa raman intre dosare. Pun mana pe telefon, ma dau lovita si plec de la birou. Urc pe motor si ajung acasa. E liniste. Dau drumul la muzica, pornesc apa in baie si intru sa-mi calmez stomacul si gandurile. Inainte, imi aprind o tigara (nu fumez de obicei in casa, dar azi merit ca-s libera) si cand sa trag al doilea fum, sa ma bucur de el, fumul isi incetineste drumul spre tavan. [Iar!? imi spun in gand] Ma asez pe scaun, in incapacitatea mea de a ma bucura de tigara si astept sa apara Gaia.
+
+- Daca ai uitat sa-mi spui ceva, puteai sa astepti pana ma intorceam din concediu...
+- Asa iti intampini tatal? Iar te certi cu bunica-ta?
+- Cronus... Zeus stie ca esti aici? 
+- Nu. Randuielile lui Zeus in echipa lui nu ma intereseaza. Pot sa ma asez?
+- Voiam sa intru in dus si oricum trebuie sa vina Lex. Si Lex nu are ce cauta in razboiul tau cu Zeus pe tema gravitatiei.
+- Deci pot sa ma asez. Voiam doar sa te vad.
+- La o adica ai disparut dupa ce mi-am luat examenele si te-ai facut ca ploua cand ti-am cerut ajutorul de a-l salva pe Lex, dar tot eu-s naspa ca nu te las sa te asezi ori sa ma vezi. 
+- Vezi ca iar ai flama in privire, termina pana nu dai foc la ceva in casa. Ai chef sa scrii raport ca ti-ai folosit puterile in afara programului!?
+- Tata, scopul si durata conversatiei, te rog.
+- Inainte sa pleci, vreau sa treci asta prin vama.
+
+Nici nu mi-a pus obiectul in mana bine, ca a si disparut. Asa face mereu.  
+
+- 100 de ani de la ultima telegrama si apare astazi...
+
+Ridic tigara din scrumiera si ma duc sa verific apa. E deja ora 4PM, curand iese si Lex de la munca. Peste doua ore avem programare la vama sa ne predam puterile si imediat plecam. Le dau si motorul, mergem cu masina. Vedem noi cine conduce. Pana la urma, peste doua ore suntem muritori, deci putem sa mergem cu ce vrem noi."
+
+
+Hess:
+
+"Suntem muritori.
+E 5:15 AM si suna ceasul. Fi-i-ar mama lui de ceas, ca de cand il stiu eu suna sa trezeasca si mortii. Da, e iar zi de munca. Am lasat cel putin 3 dosare pe birou de ieri si ce-o mai veni si astazi... E clar! Daca nu ma ia nici azi ambulanta din birou inseamna ca-s nemuritoare. Ce rost are, frate, sa fii zeu si sa nu reusesti sa-ti traiesti viata de muritor fara de griji!? 
+
+[Oare am lasat cheile de la motor in motor? O mai fi in fata cladirii? Ma furisez sa verific si bag scurt si o tigara pe dupa cladire. Asa fac, mai da-i dracu' cu tot cu dosarele si problemele lor.]
+
+Aprind tigara, n-am nimic de baut si mi se usuca tot aparatul respirator, dar macar fumez si ma mai lasa stomacul in pace (cu tot cu foamea lui). Al nostru tata, cand ne-a creat, ne-a pus scut la inima, dar a si simtit nevoia sa conecteze totul pe interior cu stomacul. Nici nu stiu daca ma rontaie stomacul de iubire, de ura ori de frica. De fiecare data cand te vad ca pleci dimineata calare pe Athos, la comanda Gaiei, ma ia stomacul. Si ma tine asa pana ajungi acasa, parchezi gigantul si ii tragi obloanele pe ochi sa adoarma. 
+
+A trimis Gaia telegrama, nu ti-am mai zis, ca diseara sa reparam podul de la Basarab, dar ea nu intelege ca ne tine gravitatia intre Victoriei si Gara de Nord. Cum dracu' sa ajungi la Basarab altfel, ca eu pe Splai nu mai intru dupa ce mi-a sarit roata de la motor direct in Dambovita. Ce faceam daca nu eram amandoi!? Cum explicam noi dimineata noul model de motor, marca Zeus, din Dambovita!? Zic sa dam check-in La Rascruce de Mese si apoi iesim direct pe la Cotroceni. Sa vina Gaia sa repare ce pod vrea ea, ca eu-s satula sa muncesc si ziua si noaptea.
+
+8PM - ti-aud pasii pe scari. Ma uit pe geam, Athos nicaieri... Iar stomacul. Intri pe usa:
+
+- Ti se aude stomacul de la Unirii.
+- Bun, bine, si cine e de vina? Unde-i Athos?
+- L-a chemat Gaia. 
+- Iar povestea cu Chronos? Si tu te-ntrebi de ce iar mi-auzi stomacul de la jumatatea orasului!?
+- Diseara ce facem?
+- (am vrut sa-ti zic de telegrama, dar fara tine eu nu repar niciun pod) Ma scoti la bere, asa, cu timpul oprit. Dar mai intai mergem la Mega sa punem ceva in frigider.
+- Stiam eu ca ti-e foame, nu ca suferi de dragul meu."
+
+
+Hess:
+
+""Îmi știai slăbiciunile și profitai cu fiecare ocazie de asta, iar eu mă mințeam deasemena cu fiecare ocazie că n-am să mai răspund chemărilor tale. Mă simțeam datoare de fiecare dată să îți fiu alături, de parcă asta era menirea mea. La finalul fiecărei întâlniri, îmi spuneam că n-am să mai răspund pozitiv și că n-am să mă mai prezint atât de loială ție. Dar de fiecare dată, formularea ta mă făcea să cred că ai nevoie cu adevărat de mine și îmi spuneam mereu că nu am așteptări de la tine sau de la soare. <<Locul nostru>>, auzi tu...n-a mai fost locul nostru de peste 3 secole, de când m-ai abandonat ca să îți rezolvi probleme personale în mijlocul unei lupte. Pe principiul ”lasă că te descurci tu”, ți-ai luat jucăriile și ai plecat.
+
+Întodeauna am plecat de la premisa că ar trebui să mă port cu cei din jurul meu la fel cum aș vrea să se poarte ei cu mine. Un fel de plată în avans în universul karmic, care să îmi asigure un fel de liniște interioară. Însă fiecare chemare a mea rămânea fără răspuns sau fără rezolvare. Erai mereu într-un altundeva care te împiedica să ajungi la mine. Așa că eu răspundeam mereu chemărilor, fără așteptări, dar dezamăgirea mă ajungea din urmă de fiecare dată când îți acordam prioritate.
+
+În trei secole am învățat multe, dar nu și cum să renunț la ceva ce îmi părea că avea să dureze o eternitate și să înțeleg că parteneriatul nostru avea să fie nul la un moment dat. Zeul ce a uitat... 
+
+Eu nu uit nimic, așa că am decis să vizitez locul ce se preta a fi al nostru, ca pe un monument înșirând în gând toate motivele pentru care o dată viitoare nu va mai exista. Deși ritualul ăsta devenise deja ca o rugăciune, un ritual bolnav pe care nu-l știam decât eu. În timp ce mă plimbam alene înspre mașină, m-am gândit pentru o secundă că mesajul ar fi putut fi un semnal de alarmă și că poate, doar poate, nu ai fi fost atât de sec în acel ”m-am plictisit”. Dacă ți s-a întâmplat ceva!?
+
+Mă sui la volan și văd furtuna cum mă ajunge din urmă. Stabilesc cu ceilalți că ne vedem tot Acolo prin stație și decid să deschid subiectul cu echipa. Problema era cum le explic ca am gonit prin furtună să mă văd cu Lex din moment ce au trecut prea multe sute de ani să mai legăm vreun cuvânt unul de celălalt!?”
